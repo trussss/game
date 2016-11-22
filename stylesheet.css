@@ -1,0 +1,6 @@
+body{background: black;}
+.header{margin:0 auto;color:white; width:100%;text-align: center;font-size: 10pt;}
+.picture_box{border: 1px solid #275057;float: left;padding: 2px;}
+.but{height: 35px;color: white;background: #275057;width: 100%;font-weight:600;border: none;}
+#main_table{margin:0 auto;}
+footer{position: absolute; bottom:0px;color:#ccc;}
